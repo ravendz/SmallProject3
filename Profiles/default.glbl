@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bearer f3b5aaf38fdab6a617892147b730347d6c0ddb3e'</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://34.123.127.154/symfony/web'</initValue>
+      <name>orangeUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
