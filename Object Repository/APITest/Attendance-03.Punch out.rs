@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Attendance-02.Punch out</name>
+   <name>Attendance-03.Punch out</name>
    <tag></tag>
    <elementGuidId>bf07cc1d-7c24-4bf6-a2fe-5d468bdcae7f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>

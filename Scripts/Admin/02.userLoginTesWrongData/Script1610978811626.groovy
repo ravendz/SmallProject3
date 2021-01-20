@@ -15,9 +15,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-response = WS.sendRequestAndVerify(findTestObject('APITest/Attendance-02.Punch out'))
+response = WS.sendRequestAndVerify(findTestObject('APITest/Admin-02.User Login - negative'))
 
-WS.verifyResponseStatusCode(response, 200)
-
-WS.verifyElementPropertyValue(response, 'success', 'Successfully Punched Out')
+WS.verifyResponseStatusCode(response, 202)
 
