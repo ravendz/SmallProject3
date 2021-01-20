@@ -39,7 +39,7 @@
       <guid>e753a4b1-eca2-441c-9018-c1d73137d226</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Attendance/02.punchOutTest</testCaseId>
+      <testCaseId>Test Cases/Attendance/03.punchOutTest</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>fb9e8c22-1e11-480d-9a3f-c4beb836c3b6</guid>

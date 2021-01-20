@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;id\&quot;:\&quot;1\&quot;,\n  \&quot;date\&quot;:\&quot;17-02-2020\&quot;,\n  \&quot;reason\&quot;:\&quot;dead\&quot;,\n  \&quot;note\&quot;:\&quot;note\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;id\&quot;:\&quot;35\&quot;,\n  \&quot;date\&quot;:\&quot;2021-05-06\&quot;,\n  \&quot;reason\&quot;:\&quot;Resigned\&quot;,\n  \&quot;note\&quot;:\&quot;died\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -33,7 +33,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>${GlobalVariable.orangeUrl}/api/v1/employee/1/action/terminate?id=1&amp;date=2020-03-03&amp;reason=dead&amp;note=note</restUrl>
+   <restUrl>${GlobalVariable.orangeUrl}/api/v1/employee/1/action/terminate</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
