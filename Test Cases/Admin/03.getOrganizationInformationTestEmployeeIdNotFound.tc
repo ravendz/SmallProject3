@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03.getOrganizationInformationTestEmployeeIdNotFound</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dd097c6-b4a8-4340-8f33-8406cb99ee98</testCaseGuid>
+</TestCaseEntity>
